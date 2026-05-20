@@ -1,0 +1,14 @@
+Basic Azure Cloud Infrastructure Lab Notes
+
+1. Created Azure Resource Groups
+2. Deployed Azure Virtual Machines
+3. Configured Virtual Networks (VNet)
+4. Configured Network Security Groups (NSG)
+5. Practiced inbound/outbound security rule configuration
+6. Performed basic user and access management
+7. Explored Microsoft Entra ID basics
+8. Practiced Role-Based Access Control (RBAC)
+9. Configured remote access using:
+   - RDP
+   - SSH
+10. Tested VM connectivity and security settings
